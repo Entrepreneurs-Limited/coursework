@@ -13,7 +13,7 @@ Team:
 - Peter Meiklem (pjm70)
 - Sam Ndenecho (sjn53)
 
-## Contents
+# Contents
 
 - [Konsu](#konsu)
   - [Contents](#contents)
