@@ -1,7 +1,6 @@
-
 # Konsu
 
-![Konsu Logo depicting a side view of an Egyptian God looking at a star on the right. The words Konsu is below in a styalised font](./img/logo_with_name.svg)
+![Konsu Logo depicting a side view of an Egyptian God looking at a star on the right. The words Konsu is below in a styalised font](./images/logo_with_name.svg)
 
 Team:
 
@@ -17,21 +16,21 @@ Team:
 ## Contents
 
 - [Konsu](#konsu)
-  * [Contents](#contents)
+  - [Contents](#contents)
 - [Product](#product)
-  * [Problem](#problem)
-  * [Solution](#solution)
+  - [Problem](#problem)
+  - [Solution](#solution)
 - [Market](#market)
-  * [Secondary Research](#secondary-research)
-  * [Stakeholder Research](#stakeholder-research)
-  * [Competitor Analysis](#competitor-analysis)
+  - [Secondary Research](#secondary-research)
+  - [Stakeholder Research](#stakeholder-research)
+  - [Competitor Analysis](#competitor-analysis)
 - [Strategy](#strategy)
-  * [Business Structure and Team](#business-structure-and-team)
-  * [Resources](#resources)
-  * [Finance](#finance)
-  * [Sales and Marketing](#sales-and-marketing)
-  * [Operational Plans](#operational-plans)
-  * [Risk Management and Mitigation](#risk-management-and-mitigation)
+  - [Business Structure and Team](#business-structure-and-team)
+  - [Resources](#resources)
+  - [Finance](#finance)
+  - [Sales and Marketing](#sales-and-marketing)
+  - [Operational Plans](#operational-plans)
+  - [Risk Management and Mitigation](#risk-management-and-mitigation)
 - [Contributions Split](#contributions-split)
 
 # Product
@@ -78,7 +77,7 @@ Most initial interactions with Konsu will be through a simple, linear booking fu
 6. During the trip, Konsu provides real-time notifications on any alterations or disruptions to the trip, with simple actionable insights. For example, in the event of a flight cancellation, it would show the next available flight that the user can board, and where possible it will automatically reissue their boarding pass. This minimises stress for the user, ensuring they can focus on having a good time.
 7. Konsu adapts to any final modifications the user may request. For example, if it’s rainier than expected, they can ask Konsu to suggest more indoor activities such as museum visits, and their schedule will be rearranged accordingly.
 
-![An example user interface implementing the flow mentioned above](./img/flow_presentation.png)
+![An example user interface implementing the flow mentioned above](./images/flow_presentation.png)
 
 ### Potential Challenges
 
