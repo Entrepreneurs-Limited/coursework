@@ -283,3 +283,7 @@ To mitigate these issues, we will:
 # Contributions Split
 
 Please see our [Group Contribution Form for this coursework `./gcf.pdf`](./gcf.pdf).
+
+# Appdendix
+
+Please see our [Appendix folder `./appendix`](./appendix).
