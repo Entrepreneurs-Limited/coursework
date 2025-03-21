@@ -74,6 +74,8 @@ Most initial interactions with Konsu are through a simple, linear booking funnel
 6. During the trip, Konsu provides real-time notifications on any alterations or disruptions to the trip, with simple actionable insights. For example, in the event of a flight cancellation, it will show the next possible flight the user can board, and where possible it will automatically reissue their boarding pass. This minimises stress for the user.
 7. The user can also ask Konsu for any modifications. For example, if it’s rainier than expected, they can ask Konsu to suggest more indoor activities such as museum visits, and their schedule will be rearranged accordingly.
 
+![An example user interface implementing the flow mentioned above](./img/flow_presentation.png)
+
 ### Potential Challenges
 
 - Connecting to APIs and gaining access to the systems needed to book flights and accommodation is a clear possible challenge. However, large common API platforms such as [Amadeus](https://amadeus.com/en/travel-sellers/products/selling-platform-connect) make this significantly easier with pre-implemented APIs and pre-negotiated agreements with travel providers such as airlines. Many major European rail companies such as Eurostar, SNCF, DB, and SBB have also implemented common API offerings that are now used by traditional flight booking websites like [Kiwi.com](http://kiwi.com/) to supplement flight itineraries with rail connections. [Booking.com](http://booking.com/) and other accommodation aggregators also offer public facing APIs with no barriers to entry. As a result, the technical side of implementing this access appears to be relatively simple, with ready-to-use APIs at every stage of the process.
