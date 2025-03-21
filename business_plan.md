@@ -12,6 +12,7 @@ Team:
 - Hugo Whittome (hw2210)
 - Pal Kerecsenyi (pk760)
 - Peter Meiklem (pjm70)
+- Sam Ndenecho (sjn53)
 
 ## Contents
 
