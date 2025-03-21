@@ -30,6 +30,7 @@ Team:
   - [Operational Plans](#operational-plans)
   - [Risk Management and Mitigation](#risk-management-and-mitigation)
 - [Contributions Split](#contributions-split)
+- [Appendix](#appendix)
 
 # Product
 
