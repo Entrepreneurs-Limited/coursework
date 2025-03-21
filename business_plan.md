@@ -32,6 +32,7 @@ Team:
   * [Sales and Marketing](#sales-and-marketing)
   * [Operational Plans](#operational-plans)
   * [Risk Management and Mitigation](#risk-management-and-mitigation)
+- [Contributions Split](#contributions-split)
 
 # Product
 
@@ -279,3 +280,7 @@ To mitigate these issues, we will:
 - Implement robust data protection policies that align with relevant regulations (for example, GDPR).
 - Allocate resources to secure systems and regular audits, ensuring data integrity and customer confidence.
 - Clearly communicate data usage and protection measures to users, building trust through accountability.
+
+# Contributions Split
+
+Please see our [Group Contribution Form for this coursework `./cw1_gcf.pdf`](./cw1_gcf.pdf).
