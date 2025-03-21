@@ -35,11 +35,11 @@ Team:
 
 # Product
 
-## Problem
+### Problem
 
 Planning and managing holidays can be quite the difficult task, from booking flights, hotels, and planning itineraries you can easily become overwhelmed with all the different websites you need to visit. Especially when balancing everyone’s needs and preferences, it can just be too difficult, leading to you potentially just choosing to buy a holiday bundle which has already done all the planning for you. This results in holidays that are subpar and do not personalise to your needs and your wants.
 
-## Solution
+### Solution
 
 We plan to solve this by combining generative AI with industry standard APIs to provide customers with a one-stop shop for all your holiday needs. This will vastly simplify the booking and planning process by doing travel research for our users.
 
@@ -86,7 +86,7 @@ Most initial interactions with Konsu will be through a simple, linear booking fu
 
 # Market
 
-## Secondary Research
+### Secondary Research
 
 Before moving forward with Konsu, we needed to ensure there was strong demand for our product and that it addressed real customer needs. In a recent survey of 1000 travellers by the Matador Network ([https://guidegeek.com/press/use-of-ai-tools-for-travel-up-40-in-past-year](https://guidegeek.com/press/use-of-ai-tools-for-travel-up-40-in-past-year)), more than 1 in 5 (22.8%) said they have used artificial intelligence to plan or assist with travel, which represents more than a 40% increase since the previous year. Beyond that, more than one third (34.4%) of participants claimed that they were likely to use AI to plan or assist with their upcoming travel plans. With an estimated 1.4 billion international tourists recorded around the world in 2024 ([https://www.unwto.org/un-tourism-world-tourism-barometer-data](https://www.unwto.org/un-tourism-world-tourism-barometer-data)), this presents us with a huge possible user base that will only continue to grow as AI becomes more readily accepted by consumers.
 
@@ -98,7 +98,7 @@ Another way in which consumer behaviour in travel planning has changed significa
 
 However, despite all this promising research, the travel planning market is becoming increasingly saturated, making it more difficult for new entrants to differentiate themselves. As noted by Business of Apps, the travel app market generated $629 billion in revenue last year, a 13% increase from the previous year ([https://www.businessofapps.com/data/travel-app-market/](https://www.businessofapps.com/data/travel-app-market/)). This growth has attracted many players, with more travel apps vying for consumer attention than ever before. This poses a significant challenge, and makes having a clear and desirable unique selling proposition, driven by stakeholder research and competitor analysis, essential.
 
-## Stakeholder Research
+### Stakeholder Research
 
 To further develop the idea for our product and ensure it would quickly meet a Product-Market Fit as close to its launch as possible, we decided to engage directly with potential end-users of the app and examine their travel habits, preferences, and reactions to proposed app features. Younger people are more likely to adopt new technologies ([https://academic.oup.com/innovateage/article/1/suppl_1/1026/3900859?login=false](https://academic.oup.com/innovateage/article/1/suppl_1/1026/3900859?login=false)) — Konsu will undoubtedly offer a very different understanding model compared to other pre-existing travel booking services, so an open and ready audience is required to kick-start its adoption. As a result, we decided to target university-age students as our primary user group.
 
@@ -121,7 +121,7 @@ That being said, it’s clear that real-time trip updates are essential to all r
 
 Additionally, following this survey, we had the opportunity to present our product to a group of students in person to gather feedback and address their questions. This session provided valuable insights, reinforcing strong interest in Konsu and its potential for success, as the feedback was overwhelmingly positive, with participants expressing enthusiasm for the app’s unique approach to travel planning. The primary constructive criticism received concerned Konsu’s current logo, with some noting its resemblance to the Starbucks logo. This is an important consideration as we finalise the branding to ensure Konsu has a distinctive and recognisable identity before launch.
 
-## Competitor Analysis
+### Competitor Analysis
 
 To position Konsu effectively within the market, we conducted a thorough competitor analysis to identify key gaps, strengths, and weaknesses among existing travel planning and booking solutions. This analysis allowed us to refine Konsu’s unique selling proposition (USP) and ensure that our product will deliver the most key features and a superior user experience.
 
@@ -139,7 +139,7 @@ All in all, this competitor analysis reveals the distinctiveness of Konsu. Some 
 
 # Strategy
 
-## Business Structure and Team
+### Business Structure and Team
 
 We plan to make our company a for profit, general partnership where all members have equal ownership and stake. This will keep the structure simple and focus our team on development.
 
@@ -149,7 +149,7 @@ For leadership, Caroline has been voted in as CEO, and Director. As CEO, she wil
 
 For operations, we have Ben, our COO, who will be translating strategic objectives into actionable plans, focusing on the non-technical side. For the technical side, we have Sam, our CTO, and Scrum Master, who will be coordinating and managing the team of developers including Hugo, Senior Engineer; Harry Crane, Lead AI Engineer; Harry Turton, Junior AI Engineer. This team will be the core development, focusing on creating an MVP to bring to the market as quickly as possible.
 
-## Resources
+### Resources
 
 To propel Konsu into the mainstream, a multitude of resources will be required. These resources have been split into three different categories: people, management and service.
 
@@ -159,7 +159,7 @@ Next is management software, which is all the software we need to run the compan
 
 Finally, we have the resources required to run Konsu. This includes the servers which we will be using, which includes AWS and GitHub Static Pages. Although AWS does cost money, we believe we can use their free trials for services to keep costs low until we make an income. Next we will also need a payment management system, which we have chosen to use Stripe which makes it easy to manage income from multiple currencies as well as linking that up with our service — this also works on a per payment charging mechanism; therefore there is no upfront cost to using this system. The main cost of the services will be going towards APIs for AI software. Yet, it has been noted that DeepSeek has recently been released, allowing us to set up a server and run the model on our own hardware (for example a Mac Mini), which can be covered by our initial seed funding. Finally, we will also need a domain for our consumers to find us, which will be covered by our seed funding too.
 
-## Finance
+### Finance
 
 As noted in the resources, we are looking to keep costs as low as possible during development, allowing us to focus on building a product instead of requiring investors before we have proven the product is possible. This will lead to a firm, sustainable foundation from which the company will flourish. Nonetheless, to develop this product quickly, we also want to have our team focus on building Konsu full-time, and so we must balance both efficiency and allow us to pay our team members.
 
@@ -176,7 +176,7 @@ In combination to this, while developing, we can also look into alternative fund
 
 All of these funds can help fast track our product to release by allowing us to support our members to focus on the project full-time.
 
-## Sales and Marketing
+### Sales and Marketing
 
 Our revenue model will be built on multiple streams, combining affiliate commissions from hotels, flights, and activities with a direct service fee. Additionally, we will form partnerships with travel brands for sponsored placements and promotions, giving priority to select flights, hotels, and experiences in exchange for recurring payments. Brands will also have the opportunity to earn a “Konsu Approved” badge for a monthly fee, enhancing their credibility among our users.
 
@@ -190,11 +190,11 @@ Our digital marketing efforts will leverage highly targeted ads on Google and Me
 
 Finally, to establish a strong presence in the travel industry, we will partner with travel and lifestyle influences who have highly engaged audiences seeking unique travel experiences. Our primary focus will be on visual-first platforms like Instagram, TikTok, and YouTube, where travel inspiration thrives. Through these partnerships, we will develop sponsored content, including travel vlogs, comparisons such as “AI vs. Human Travel Agent,” and AI-generated itinerary reviews.
 
-## Operational Plans
+### Operational Plans
 
 Our operating strategy is designed to ensure the efficient development, launch, and scaling of Konsu while maintaining agility and responsiveness to market dynamics. We have structured our approach into four key phases, each tailored to the current stage of the company’s growth.
 
-### Phase 1: Pre-Launch (Months 1-3)
+#### Phase 1: Pre-Launch (Months 1-3)
 
 In the initial phase, our primary focus will be on finalising core team roles and establishing clear communication protocols. We will leverage existing tools such as Slack for internal collaboration and GitHub for project management to ensure transparency and alignment.
 
@@ -202,7 +202,7 @@ To minimise upfront costs, we will use personal equipment and leverage free-tier
 
 Development efforts during this phase will focus on building a minimum viable product (MVP) with core functionalities that demonstrate the potential of Konsu’s AI-driven travel planning. Rigorous testing will be conducted to ensure product stability, while the marketing team will work on establishing a preliminary digital presence through social media and a landing page.
 
-### Phase 2: MVP Launch and Early Traction (Months 4-6)
+#### Phase 2: MVP Launch and Early Traction (Months 4-6)
 
 Upon completing the MVP, we will initiate a controlled rollout to gather user feedback and validate core features. This beta phase will help us identify areas for improvement while generating early traction.
 
@@ -210,7 +210,7 @@ Our marketing efforts will be geared towards digital advertising and leveraging 
 
 Simultaneously, we will pursue funding opportunities through angel investors and grants, leveraging the initial user response and traction as key selling points. Maintaining financial prudence will remain a priority, with expenditure tightly controlled to maximise runway.
 
-### Phase 3: Post-MVP Growth and Scaling (Months 7-12)
+#### Phase 3: Post-MVP Growth and Scaling (Months 7-12)
 
 Following the MVP launch, our focus will shift to product optimisation and feature expansion based on user insights. We will implement iterative updates to improve usability and functionality, incorporating enhancements to our AI models to deliver increasingly personalised travel recommendations.
 
@@ -218,7 +218,7 @@ Revenue generation will commence with the introduction of the Dream Holiday Raff
 
 As the platform gains traction, we will carefully scale our technical team to support feature development and maintenance. Dedicated HR functions will be introduced to facilitate recruitment and support team well-being, laying the groundwork for long-term organisational stability.
 
-### Phase 4: Series A Investment and Market Expansion (Months 12-24)
+#### Phase 4: Series A Investment and Market Expansion (Months 12-24)
 
 With a proven MVP and established user base, we will actively pursue Series A investment to secure the financial resources needed for accelerated growth. Our focus will be on scaling operations, enhancing the platform’s capabilities, and broadening our market reach through targeted campaigns.
 
@@ -226,7 +226,7 @@ To reinforce Konsu’s position as an industry leader, we will execute a compreh
 
 Operationally, we will enhance our financial management systems to accommodate increasing complexity and ensure rigorous financial oversight. By continually assessing our revenue model and exploring innovative funding avenues, we aim to maintain financial stability while delivering sustained growth.
 
-## Risk Management and Mitigation
+### Risk Management and Mitigation
 
 While launching Konsu, we have identified and plan to mitigate the key risks that could hinder our success. While the concept of an AI-powered travel planning app offers significant potential, various challenges may arise in areas such as market fit, competition, finances, technology, and regulatory compliance.
 
@@ -282,4 +282,4 @@ To mitigate these issues, we will:
 
 # Contributions Split
 
-Please see our [Group Contribution Form for this coursework `./cw1_gcf.pdf`](./cw1_gcf.pdf).
+Please see our [Group Contribution Form for this coursework `./gcf.pdf`](./gcf.pdf).
