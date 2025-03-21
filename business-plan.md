@@ -283,6 +283,6 @@ To mitigate these issues, we will:
 
 Please see our [Group Contribution Form for this coursework `./gcf.pdf`](./gcf.pdf).
 
-# Appdendix
+# Appendix
 
 Please see our [Appendix folder `./appendix`](./appendix).
