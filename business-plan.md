@@ -15,8 +15,6 @@ Team:
 
 # Contents
 
-- [Konsu](#konsu)
-  - [Contents](#contents)
 - [Product](#product)
   - [Problem](#problem)
   - [Solution](#solution)
